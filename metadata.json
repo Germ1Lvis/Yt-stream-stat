@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Stream Analyzer",
+  "description": "An application to analyze YouTube live stream analytics by uploading screenshots of channel pages.",
+  "requestFramePermissions": []
+}
